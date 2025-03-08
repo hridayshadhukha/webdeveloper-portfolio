@@ -84,11 +84,18 @@
 
 
 
-.section-2{
+
+.main{
   max-width: 70%;
+  margin: auto;
+}
+
+
+.section-2{
   margin: auto;
   background-color: #f7f0ea;
   padding: 60px 30px;
+  margin-bottom: 100px;
 }
 
 .head-1,
@@ -100,6 +107,8 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
+  max-width: 75%;
+  margin: auto;
 }
 
 .heading-3{
@@ -109,6 +118,6 @@
 }
 .heading-4{
   color: #474747;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 700;
 }
